@@ -1,1 +1,0 @@
-https://github.com/MichaelShilkin/ono-tebe-nado-fd.git
