@@ -170,9 +170,15 @@
    background-size: cover;
    background-position: center;
  }  
-  .card__type_film {background-image: url(../images/card-lot-01.jpg) ;}
-  .card__type_book {background-image: url(../images/card-lot-02.jpg) ;}
-  .card__type_picture {background-image: url(../images/card-lot-03.jpg) ;}
+  .card__type_film {
+   background-image: url(../images/card-lot-01.jpg);
+}
+  .card__type_book {
+   background-image: url(../images/card-lot-02.jpg);
+}
+  .card__type_picture {
+   background-image: url(../images/card-lot-03.jpg);
+}
   
   .card__title {
    font-size: 22px;
